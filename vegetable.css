@@ -1,0 +1,16 @@
+:root{
+    --clr--light:#ecf7ec;
+}
+
+*{
+    font-family: poppins;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+nav{
+    background-color: #ecf7ee;
+    padding: 20px;
+}
